@@ -18,6 +18,7 @@ datasketches==4.1.0
 debugpy==1.8.0
 decorator==5.1.1
 dfsummary==0.4
+et-xmlfile==1.1.0
 executing==2.0.1
 fiona==1.9.5
 folium==0.15.1
@@ -40,6 +41,7 @@ matplotlib-inline==0.1.6
 multidict==6.0.4
 nest-asyncio==1.5.8
 numpy==1.26.3
+openpyxl==3.1.2
 packaging==23.2
 pandas==2.1.4
 parso==0.8.3
