@@ -24,6 +24,6 @@ Para este proyecto se trabajó con la **Bases de Víctimas Fatales en Siniestros
    
 En este [PDF](https://drive.google.com/file/d/1ct4Y5PpQ7XkSegjyclxKNoYIyKa7GILO/view?usp=drive_link) se detallan todas las definiciones manejadas en los datos y en el desarrollo de este proyecto.
 En las siguientes imagenes se detalla el diccionario de datos de las pestañas `HECHOS` `VICTIMAS`
-![Diccionario HECHOS](/image/Diccionario_Hechos.png)
+![Diccionario HECHOS]([![Diccionario-Hechos.png](https://i.postimg.cc/L6NvS9Mp/Diccionario-Hechos.png)](https://postimg.cc/RNJwQzFs))
 
 ![Diccionario HECHOS](/image/Diccionario_Victimas.png)
