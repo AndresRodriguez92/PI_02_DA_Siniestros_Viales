@@ -72,7 +72,7 @@ Finalmente la distribución de las victimas por genero, evidenciando que los hom
   Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
   Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
 
-![Disminución del 10% Tasa de Homicidios](/Image/-10%_kpi.png)
+![-10%_kpi](/Image/-10%_kpi.png)
 
   
 - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*.
