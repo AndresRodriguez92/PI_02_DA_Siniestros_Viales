@@ -34,7 +34,7 @@ En las siguientes imagenes se detalla el diccionario de datos de las pestañas `
 
 ### ETL
 
-Se realiza la extracción y limpieza de datos, identidicando los campos necesarios para la elaboracíon del proyecto validando y unificando los tipos de datos y nombres de las columnas de las hojas `HECHOS` `VICTIMAS` . Se eliminan los datos Nulos y Duplicados para finalmente unificar ambas hojas en un solo Data Set llamado ![siniestros_ok](/Data/siniestros_ok.csv)
+Se realiza la extracción y limpieza de datos, identidicando los campos necesarios para la elaboracíon del proyecto validando y unificando los tipos de datos y nombres de las columnas de las hojas `HECHOS` `VICTIMAS` . Se eliminan los datos Nulos y Duplicados para finalmente unificar ambas hojas en un solo Data Set llamado [siniestros_ok](/Data/siniestros_ok.csv)
 
 
 
