@@ -11,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=blue)
 
+## Intro 
 
 Para la elaboración de este proyecto simulamos ser un `Data Analist`.
 
