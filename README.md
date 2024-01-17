@@ -40,6 +40,12 @@ Se realiza la extracción y limpieza de datos, identidicando los campos necesari
 
 Se realiza un Análisis exploratorio de los datos reviando que tipos de variables y comportamiento de la información podemos llegar a evaluar [EDA](/EDA.ipynb) para poder crear la visualización en Poer BI
 
+Principalmente evaluamos la variable de victimas por siniestros por Año, Mes y dia concluyendo lo siguiente:
+
+* Evidenciamos que el año com mas victimas fue el 2018 con 160 casos, mientras que el menor año es el 2020 tal vez por el confinamiento que hubo por el Covid_19
+* Evidenciamos que el mes con mayor cantidad de victimas es Diciembre, tal vez influya que es mes de vacaciones y es cuando mas se movilizan las personas en sus vehiculos
+* Evidenciamos que el dia del mes con mas victimas es el dia 20 con un total de 33 Victimas
+
 
 
 
