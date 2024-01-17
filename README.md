@@ -1,7 +1,7 @@
 # PI_02_DA_Siniestros_Viales
 ### Analisis de los Siniestros Viales en la ciudad de Buenos Aires
 
-[![carreteras-clasificacion.jpg](https://i.postimg.cc/C5TYw39G/carreteras-clasificacion.jpg)](https://postimg.cc/vgzCzNYT)
+[![carretera.png](https://i.postimg.cc/hGWkYkQT/carretera.png)](https://postimg.cc/HrzvcP2k)
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
