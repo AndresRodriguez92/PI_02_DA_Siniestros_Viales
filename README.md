@@ -46,7 +46,22 @@ Principalmente evaluamos la variable de victimas por siniestros por Año, Mes y 
 * Evidenciamos que el mes con mayor cantidad de victimas es Diciembre, tal vez influya que es mes de vacaciones y es cuando mas se movilizan las personas en sus vehiculos
 * Evidenciamos que el dia del mes con mas victimas es el dia 20 con un total de 33 Victimas
 
+![Victimas por Año](/Image/Cantidad_de_victimas_por_año.png)
 
+![Victimas por Mes](/Image/Cantidad_de_victimas_por_mes.png)
+
+![Victimas por Día](/Image/Cantidad_de_victimas_por_dia.png)
+
+Luego evaluamos la edad promedio de las vistimas:
+
+![Victimas por Año](/Image/Edad_promedio_victimas.png)
+
+Finalmente la distribución de las victimas por genero, evidenciando que los hombres tienen un mayor % 
+
+![Victimas por Año](/Image/Distribución_de_vistimas_por_genero.png)
+
+
+### KPI's :chart_with_downwards_trend:
 
 
 
