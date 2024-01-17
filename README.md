@@ -84,7 +84,7 @@ Finalmente la distribución de las victimas por genero, evidenciando que los hom
 
 ##### Concluciones Dash Board 🚧
 
-Realizando el análisis total del dataset y creacion del DashBoar concluimos que dentro de la ciudad de Buenos Aires los siniestros en vehiculos desde el año 2016 al 2018 aumentaron pero del 2019 al 2021 han logrado disminuir, esto podria mejorar si se hicieran continuamente charlas de concientizacion a los conductoeres.
+Realizando el análisis total del dataset y creacion del DashBoar concluimos que hay un total de 744 homicidios de los cuales 305 son vistimas en moto llevandose un promedio del 48% del total de los involucrados en de la ciudad de Buenos Aires. Además los siniestros en vehiculos desde el año 2016 al 2018 aumentaron pero del 2019 al 2021 han logrado disminuir, esto podria mejorar si se hicieran continuamente charlas de concientizacion a los conductoeres.
 
 
 
