@@ -58,20 +58,36 @@ Luego evaluamos la edad promedio de las vistimas:
 
 Finalmente la distribución de las victimas por genero, evidenciando que los hombres tienen un mayor % 
 
-![Victimas por Año](/Image/Distribución_de_vistimas_por_genero.png)
+![Distribución de Victimas por Género](/Image/Distribución_de_victimas_por_genero.png)
 
 
-### KPI's   :chart_with_downwards_trend:  :hourglass:  :eyes:
+## KPI's   :chart_with_downwards_trend:  :hourglass:  :eyes:
+
+**Tablero de Control**
+
+![DashBoard](/Image/DashBoard.png)
 
 - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*.
   
   Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
   Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
+
+ ![Disminución 10% tasa de Homicidiosi](/Image/-10%_kpi.png)
+
   
 - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*.
   
   Definimos a la **cantidad de accidentes mortales de motociclistas en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal.
   Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
+  
+ ![Disminución del 7% Accidentes en Motocicleta](/Image/-7%_kpi.png)
+
+##### Concluciones Dash Board 🚧
+
+Realizando el análisis total del dataset y creacion del DashBoar concluimos que hay un total de 744 homicidios de los cuales 305 son vistimas en moto llevandose un promedio del 48% del total de los involucrados en de la ciudad de Buenos Aires. Además los siniestros en vehiculos desde el año 2016 al 2018 aumentaron pero del 2019 al 2021 han logrado disminuir, esto podria mejorar si se hicieran continuamente charlas de concientizacion a los conductoeres.
+
+
+
 
 
 
